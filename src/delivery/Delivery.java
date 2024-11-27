@@ -10,6 +10,7 @@ public class Delivery {
         System.out.println("Birthday");
         System.out.println("version2");
         System.out.println("Success");
+        System.out.println("Double success");
     }
     
     
